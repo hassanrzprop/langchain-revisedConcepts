@@ -12,6 +12,7 @@ langchain-community = "^0.3.2"
 langchain-huggingface = "^0.1.0"
 python-dotenv = "^1.0.1"
 langchain-core = "^0.3.10"
+langchain-google-genai = "^2.0.1"
 
 
 [build-system]
